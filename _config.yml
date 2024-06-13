@@ -25,21 +25,19 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:  fcaa9b 
+  primary:  fffefe
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: bbdde2 
+  secondary: 100c08
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
   copyright: Lucia Grau
-  location: Amsterdam, Netherlands
-  social: Social Media
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyl
+  - title: instagram 
+    url: http://instagram.com/@luchi_grau
   - title: facebook
     url:
   - title: stack-overflow
