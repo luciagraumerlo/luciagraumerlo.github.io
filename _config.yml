@@ -37,15 +37,10 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram 
-    url: http://instagram.com/@luchi_grau
+    url: https://www.instagram.com/luchi_grau/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url:https://www.facebook.com/luchi.grau
+
 
 
 # Build settings
